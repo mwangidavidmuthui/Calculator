@@ -1,0 +1,12 @@
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Release\Calculator.exe
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Release\Calculator.pdb
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Release\Calculator.xml
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Release\Bunifu.Core.dll
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Release\Calculator.Calculator.resources
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Release\Calculator.Resources.resources
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Release\Calculator.SplashScreen.resources
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Release\Calculator.vbproj.GenerateResource.Cache
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Release\Calculator.exe
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Release\Calculator.xml
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Release\Calculator.pdb

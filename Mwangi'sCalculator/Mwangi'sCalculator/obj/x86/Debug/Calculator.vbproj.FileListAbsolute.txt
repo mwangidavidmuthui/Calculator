@@ -1,0 +1,24 @@
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\bin\Debug\Bunifu.Core.dll
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\MwangiMuthui\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.SplashScreen.resources
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Debug\Calculator.exe
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Debug\Calculator.xml
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Debug\Calculator.pdb
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Debug\Calculator.exe
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Debug\Calculator.pdb
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Debug\Calculator.xml
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\bin\Debug\Bunifu.Core.dll
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Debug\Calculator.SplashScreen.resources
+C:\Users\MwangiMuthui\documents\visual studio 2010\Projects\Mwangi'sCalculator\Mwangi'sCalculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
